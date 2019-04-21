@@ -1,0 +1,14 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "nozim",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
